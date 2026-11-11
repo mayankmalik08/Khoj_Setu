@@ -1,0 +1,6 @@
+{
+  "name": "KhojSetu — Discovery & Comparison Marketplace",
+  "description": "India's digital discovery and comparison marketplace connecting customers with verified local shops, wholesalers, manufacturers, and service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
